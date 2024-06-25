@@ -439,7 +439,6 @@ footer::before{content: "";display: inline-block;background: url(../img/ft_s_img
     .works3 .sect4 img {width: 100%;}
     .works3 .sub-type-divi.po-type2 {margin-top: 40px;align-items: flex-start;flex-direction: column;}
     .works3 .sub-type-divi .disc.white {margin-bottom: 10px;}
-    .sect.sect5 img {width: 100%;}
     .works3 .sub-type-divi.po-type3 {margin-top: 20px;justify-content: flex-start;flex-direction: row;align-items: flex-start;}
     .works3 .sub-type-divi.po-type3 img {width: 56%;}
     .works3 .sub-type-divi.po-type3 img:nth-of-type(1) {margin-left: -20px;}
