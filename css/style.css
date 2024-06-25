@@ -310,6 +310,9 @@ footer::before{content: "";display: inline-block;background: url(../img/ft_s_img
 /*반응형*/
 @media screen and (max-width: 1184px) {
     .sub-img img{width: 100%;}
+    .works2 .sect1 .live_mb {margin-left: 0;}
+    .sect.sect5 > img {width: 100%;}
+    .works2 .sect3 .sub-tit.sub-tit2 {margin-left: 0;}
 }
 @media screen and (max-width: 1080px) {
     .pf-wrap .pf-tp-sct .pf-slogan {font-size: 36px;line-height: 48px;}
